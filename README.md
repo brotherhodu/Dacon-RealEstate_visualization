@@ -2,6 +2,9 @@
 
 # "부동산 투자만큼 돈 많이 벌 수 있는 KOSPI 종목 ETF 만들기"
 
+## 결과: 수상(4위) 
+## Tableau Public: https://public.tableau.com/app/profile/.82291648
+
 ## Participant
 - 남동욱(dwn920919@gmail.com) - 호두형
 - 서민지(jaaaamj0711@gmail.com) - Hayo
